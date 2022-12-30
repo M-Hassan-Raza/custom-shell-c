@@ -1,5 +1,5 @@
 //Muhammad Hassan Raza - Do not plagiarize, take help and then write your own implementations!
-//Copying teh code for assignments or project will hurt you a lot later down teh line!
+//Copying teh code for assignments or project will hurt you a lot later down the line!
 
 #include <stdio.h>
 #include <sys/wait.h>
